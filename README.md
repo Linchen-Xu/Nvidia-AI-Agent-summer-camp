@@ -82,19 +82,19 @@ l 代码实现：
 
 1. 文件向量化：使用PyMuPDFLoader进行文件加载，使用NVIDIAEmbeddings进行embedding
 
-![image-20240818223350077](D:\code\python\Nvidia-AI-Agent-summer-camp\embedding.png)
+![image-20240818223350077](./embedding.png)
 
 2. prompt部分：
 
-![image-20240818223608604](D:\code\python\Nvidia-AI-Agent-summer-camp\image-20240818223608604.png)
+![image-20240818223608604](./image-20240818223608604.png)
 
 3. 构建完整chain
 
-![image-20240818223645168](D:\code\python\Nvidia-AI-Agent-summer-camp\image-20240818223645168.png)
+![image-20240818223645168](./image-20240818223645168.png)
 
 4. 适配gradle ui：
 
-![image-20240818223852071](D:\code\python\Nvidia-AI-Agent-summer-camp\image-20240818223852071.png)
+![image-20240818223852071](./image-20240818223852071.png)
 
 
 
@@ -154,7 +154,7 @@ l 功能演示：
       2. 有条件的话可以将大模型放到本地运行，绕开网络请求长度限制。
 
 
- 
+
 
 #### 项目总结与展望：
 

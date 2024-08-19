@@ -128,7 +128,7 @@ l 功能演示：
 
 上传pdf，并输入job description，点击submit，等待几秒后得到结果（敏感信息已作打码处理）
 
-![image-20240818224843200](D:\code\python\Nvidia-AI-Agent-summer-camp\image-20240818224843200.png)
+![image-20240818224843200](./image-20240818224843200.png)
 
  
 
